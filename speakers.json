@@ -1,0 +1,214 @@
+{
+	"speaker": [
+		{
+			"image": "https://aneventapart.com/uploads/speakers/uploads/speakers/_600x700_crop_top-center_75_none/formal-crop-retouch.jpg",
+			"image_cropped": "https://aneventapart.com/uploads/speakers/uploads/speakers/_600x700_crop_top-center_75_none/formal-crop-retouch.jpg",
+			"name": "Ire Aderinokun",
+			"talk": "PWAs in 2021",
+			"id": "ire-aderinokun",
+			"bio": "Ire Aderinokun is a self-taught Front-End Developer and User Interface Designer from Lagos, Nigeria. She is the co-founder, COO, and VP Engineering of BuyCoins (YC S2018), a cryptocurrency exchange for Africa; and previously worked with eyeo, the company behind products like Adblock Plus and Flattr Plus, building open source software to make a better internet.\n\nIre is a Google Expert specializing in the core front-end technologies HTML, CSS, and JavaScript, but is passionate about all aspects of technology. She has written over 100 articles on these topics on her blog, [bitsofco.de](https://bitsofco.de/), and regularly shares her knowledge through speaking at conferences around Africa and the world.",
+			"profile": [
+				{
+					"url": "https://twitter.com/ireaderinokun"
+				}
+			]
+		},
+		{
+			"image": "https://aneventapart.com/uploads/speakers/uploads/speakers/_350x425_fit_center-center_80_none/senongo-akpem-crop.jpg",
+			"image_cropped": "https://aneventapart.com/uploads/speakers/uploads/speakers/_600x700_crop_top-center_75_none/senongo-akpem-crop.jpg",
+			"name": "Senongo Akpem",
+			"talk": "Cross-Cultural Design",
+			"id": "senongo-akpem",
+			"bio": "Senongo Akpem is a designer, illustrator, and the founder of [Pixel Fable](http://pixelfable.com/), a collection of interactive Afrofuturist stories. For the past fifteen years, he has specialized in collaborating with clients across the world on flexible, impactful digital experiences. He is the Design Director at [Nava](http://navapbc.com/).\n\nHe is the author of *[Cross-Cultural Design](https://abookapart.com/products/cross-cultural-design)* from A Book Apart, which explores a clear methodology and techniques for designing across culture and language.\n\nThe child of a Nigerian father and a Dutch-American mother, Senongo grew up in Nigeria, lived in Japan for almost a decade, and now calls Queens, New York home. Living in constantly shifting cultural and physical spaces has given him unique insight into the influence of culture on communication and creativity. Senongo speaks at conferences about cross-cultural design, digital storytelling, and transmedia. He loves any and all science fiction. Senongo is usually on Twitter [@senongo](https://twitter.com/senongo), making terrible puns.",
+			"profile": [
+				{
+					"url": "https://twitter.com/senongo"
+				}
+			]
+		},
+		{
+			"image": "https://aneventapart.com/uploads/headshots/_350x425_fit_center-center_80_none/rachelandrew_crop.jpg",
+			"image_cropped": "https://aneventapart.com/uploads/speakers/_600x700_crop_top-center_75_none/rachel-andrew-crop.jpg",
+			"name": "Rachel Andrew",
+			"talk": "Advanced CSS",
+			"id": "rachel-andrew",
+			"bio": "Rachel Andrew lives in Bristol, England. She is one half of web development company [edgeofmyseat.com](http://edgeofmyseat.com/), the company behind [Perch CMS](https://grabaperch.com/). She’s also an Invited Expert to the W3C on the CSS Working Group and a Google Developer Expert. Her day to day work can include anything from product development to devops to CSS, and she writes about all of these subjects on her blog at [rachelandrew.co.uk](https://rachelandrew.co.uk/).\n\nRachel has been working on the web since 1996 and writing about the web for almost as long. Her books include the recent *[Get Ready for CSS Grid Layout](https://abookapart.com/products/get-ready-for-css-grid-layout)* and *[HTML5 for Web Designers](https://abookapart.com/products/html5-for-web-designers), Second Edition*. She is a regular columnist for [A List Apart](http://alistapart.com/) as well as other publications online and print.\n\nRachel is a keen distance runner and likes to try to encourage people to come for a run when attending conferences, with varying degrees of success! You can find her on Twitter as [@rachelandrew](https://twitter.com/rachelandrew) and find out [what she is up to now](https://rachelandrew.co.uk/now).",
+			"profile": [
+				{
+					"url": "https://twitter.com/rachelandrew"
+				},
+				{
+					"url": "https://github.com/rachelandrew"
+				},
+				{
+					"url": "https://instagram.com/rachelandrewuk"
+				}
+			]
+		},
+		{
+			"image": "https://aneventapart.com/uploads/headshots/_600x700_crop_top-center_75_none/Val_Head_2015.jpg",
+			"image_cropped": "https://aneventapart.com/uploads/headshots/_600x700_crop_top-center_75_none/Val_Head_2015.jpg",
+			"name": "Val Head",
+			"talk": "Inclusive Animation",
+			"id": "val-head",
+			"bio": "Val Head is a web animation expert, author, and Senior Design Evangelist at Adobe. She’s the author of *[Designing Interface Animation](http://rosenfeldmedia.com/books/designing-interface-animations/)*, published by Rosenfeld Media, and teaches [CSS Animation](https://www.lynda.com/CSS-tutorials/CSS-Animation/439683-2.html) on [lynda.com](http://lynda.com/).\n\nShe shares her passion for web animation as co-host of the [Motion and Meaning](http://motionandmeaning.io/) podcast, and curator of the [UI Animation Newsletter](http://uianimationnewsletter.com/).\n\nA proud supporter of the web community, she co-founded the [Web Design Day conference](http://www.webdesignday.com/). Val leads workshops at companies and conferences around the world on motion design for the web and loves every minute of it.",
+			"profile": [
+				{
+					"url": "https://twitter.com/vlh"
+				},
+				{
+					"url": "https://dribbble.com/valhead"
+				}
+			]
+		},
+		{
+			"image": "https://aneventapart.com/uploads/speakers/uploads/speakers/_350x425_fit_center-center_80_none/scott-jehl-speaker.jpg",
+			"image_cropped": "https://aneventapart.com/uploads/speakers/uploads/speakers/_600x700_crop_top-center_75_none/scott-jehl-crop.jpg",
+			"name": "Scott Jehl",
+			"talk": "Progressive Enhancement",
+			"id": "scott-jehl",
+			"bio": "[Scott Jehl](http://scottjehl.com/) is a web designer and developer. He works alongside the folks at [Filament Group](http://www.filamentgroup.com/), with clients such as Vineyard Vines, the *Boston Globe*, LEGO Systems, Inc., Global News Canada, and more. In 2020, he released the online course [Lightning-Fast Web Performance](https://scottjehl.com/lfwp/), and in 2014 he wrote *[Responsible Responsive Design](https://abookapart.com/products/responsible-responsive-design)* for A Book Apart. Scott regularly speaks and gives workshops at conferences like An Event Apart, SmashingConf, and Beyond Tellerand. He is an active participant in the web community, maintaining projects that focus on accessible and performance-oriented practices for cross-device development. Scott lives in Brooklyn, New York.",
+			"profile": [
+				{
+					"url": "https://twitter.com/scottjehl"
+				},
+				{
+					"url": "https://github.com/scottjehl"
+				}
+			]
+		},
+		{
+			"image": "https://aneventapart.com/uploads/headshots/_350x425_fit_center-center_80_none/aea_speaker_jeremy-keith_profile.jpg",
+			"image_cropped": "https://aneventapart.com/uploads/action-shots/_600x700_crop_top-center_75_none/aea_speaker_jeremy-keith_event.jpg",
+			"name": "Jeremy Keith",
+			"talk": "Reducing Complexity",
+			"id": "jeremy-keith",
+			"bio": "Jeremy Keith lives in Brighton, England where he makes websites with the splendid design agency [Clearleft](http://clearleft.com/). You may know him from such books as *[DOM Scripting](https://domscripting.com/)*, *[Bulletproof Ajax](https://bulletproofajax.com/)*, *[HTML5 For Web Designers](https://html5forwebdesigners.com/)*, *[Resilient Web Design](https://resilientwebdesign.com/)*, and, most recently, *[Going Offline](https://abookapart.com/products/going-offline)*.\n\nHe curated [the dConstruct conference](http://dconstruct.org/) for a number of years as well as [Brighton SF](http://brightonsf.adactio.com/), and he organised the world's first [Science Hack Day](http://sciencehackday.com/). He also made the website [Huffduffer](https://huffduffer.com/) to allow people to make podcasts of found sounds—it's like Instapaper for audio files.\n\nHailing from Erin's green shores, Jeremy maintains his link to Irish traditional music running the community site [The Session](https://thesession.org/). He also indulges a darker side of his bouzouki-playing in the band [Salter Cane](https://saltercane.com/).\n\nJeremy spends most of his time goofing off on the internet, documenting his time-wasting on [adactio.com](https://adactio.com/), where he has been writing for over fifteen years.",
+			"profile": [
+				{
+					"url": "https://twitter.com/adactio"
+				},
+				{
+					"url": "https://github.com/adactio"
+				},
+				{
+					"url": "https://instagram.com/adactio"
+				},
+				{
+					"url": "https://flickr.com/photos/adactio"
+				},
+				{
+					"url": "https://medium.com/@adactio"
+				},
+				{
+					"url": "https://dribbble.com/adactio"
+				}
+			]
+		},
+		{
+			"image": "https://aneventapart.com/uploads/headshots/_350x425_fit_center-center_80_none/una-kravets.jpg",
+			"image_cropped": "https://aneventapart.com/uploads/headshots/_600x700_crop_top-center_75_none/una-kravets-close.jpg",
+			"name": "Una Kravets",
+			"talk": "Modern CSS",
+			"id": "una-kravets",
+			"bio": "Una Kravets is a Developer Advocate at Google. She’s a [technical writer](http://una.im/), having written for various online publications such as A List Apart, Smashing Magazine, and Sitepoint. Una also co-hosts the [Toolsday](http://toolsday.io/) podcast and started both the Washington DC and Austin Sass Meetups.\n\nUna is involved in the open source community as both an open source design advocate and maintainer of the [CSSgram](http://una.im/CSSgram) project. She's a performance nerd, travels frequently, and listens to way too many audio books.",
+			"profile": [
+				{
+					"url": "https://twitter.com/una"
+				},
+				{
+					"url": "https://github.com/una"
+				},
+				{
+					"url": "https://dribbble.com/una"
+				}
+			]
+		},
+		{
+			"image": "https://aneventapart.com/uploads/speakers/_350x425_fit_center-center_80_none/morten-rand-hendriksen.jpg",
+			"image_cropped": "https://aneventapart.com/uploads/speakers/_600x700_crop_top-center_75_none/morten-rand-hendriksen.jpg",
+			"name": "Morten Rand-Hendriksen",
+			"talk": "CSS Grid",
+			"id": "morten-rand-hendriksen",
+			"bio": "Morten Rand-Hendriksen’s passion for practical ethics in technology has shaped his fifteen-year career working on and with the web. Combining a masters’ degree in philosophy with his experiences working in and then teaching web development and design, Morten has seen how design shapes the future. He has written and spoken on applied practical ethics in technology and design for over five years and believes the future needs a tech industry centered around ethics.\n\nMorten resides in Vancouver, Canada with his family, where he creates online and in-person courses as a senior staff instructor for [LinkedIn Learning](https://www.linkedin.com/learning/). He teaches interaction design at [Emily Carr University of Art + Design](https://www.ecuad.ca/), and is an active contributor to several open source projects.\n\nMorten is a prolific amateur photographer. His work has been featured in several print and online magazines and exhibits, and he created and organized the [12x12 Vancouver Photo Marathon](http://vancouverphotomarathon.com/) for five years.",
+			"profile": [
+				{
+					"url": "https://twitter.com/mor10"
+				},
+				{
+					"url": "https://github.com/mor10"
+				},
+				{
+					"url": "https://instagram.com/mor10gram"
+				}
+			]
+		},
+		{
+			"image": "https://aneventapart.com/uploads/headshots/_350x425_fit_center-center_80_none/dave_rupert.jpg",
+			"image_cropped": "https://aneventapart.com/uploads/headshots/_600x700_crop_top-center_75_none/dave_rupert.jpg",
+			"name": "Dave Rupert",
+			"talk": "Web Components",
+			"id": "dave-rupert",
+			"bio": "Dave Rupert is the lead developer at [Paravel](http://paravelinc.com/), a three person web shop based in Austin, TX. He co-hosts the [Shop Talk Show](http://shoptalkshow.com/) with [Chris Coyier](https://aneventapart.com/speakers/chris-coyier), a weekly sound effects podcast that also covers web design.",
+			"profile": [
+				{
+					"url": "https://twitter.com/davatron5000"
+				},
+				{
+					"url": "https://github.com/davatron5000"
+				},
+				{
+					"url": "https://dribbble.com/davatron5000"
+				}
+			]
+		},
+		{
+			"image": "https://aneventapart.com/uploads/headshots/_350x425_fit_center-center_80_none/sara-soueidan.jpg",
+			"image_cropped": "https://aneventapart.com/uploads/headshots/_600x700_crop_top-center_75_none/sara-soueidan.jpg",
+			"name": "Sara Soueidan",
+			"talk": "Accessible Development",
+			"id": "sara-soueidan",
+			"bio": "[Sara Soueidan](https://sarasoueidan.com/) is an independent front-end Web developer based in Lebanon. She works with companies and agencies around the world, helping them build [front-end foundations](https://sarasoueidan.com/case-studies) with strong focus on responsive design, progressive enhancement, accessibility, and performance, using the latest front-end and design techniques.\n\nSara [speaks](https://sarasoueidan.com/speaking) and runs [front-end workshops](https://sarasoueidan.com/workshops) at international conferences. She also trains teams of designers and developers in-house at companies including Netflix, TELUS, and the Royal Schiphol Group at Amsterdam Airport.\n\nWhen she’s not doing any of the above, she writes and shares her knowledge and experience on [her blog](https://sarasoueidan.com/blog) and for various online magazines such as Smashing Magazine, A List Apart, Codrops, and more.\n\nSara is the author of the [Codrops CSS Reference](https://tympanus.net/codrops/css_reference/), co-author of [Smashing Book 5](https://www.smashingmagazine.com/printed-books/smashing-book-5/) — a book that covers time-saving, practical techniques for crafting fast, maintainable and scalable responsive websites.\n\nIn 2015, Sara was voted Developer of the Year in [the net awards](https://thenetawards.com/), and nominated for Outstanding Contribution of the Year. She was also awarded an O’Reilly Web Platform Award for “exceptional leadership, creativity, and collaboration in the development of JavaScript, HTML, CSS, and the supporting Web ecosystem.”\n\nIn her spare time, Sara likes to exercise, experiment with making new healthy smoothie recipes, and loves to raise and spend time with birds.",
+			"profile": [
+				{
+					"url": "https://twitter.com/SaraSoueidan"
+				},
+				{
+					"url": "https://codepen.com/SaraSoueidan"
+				},
+				{
+					"url": "https://instagram.com/SaraSoueidan"
+				}
+			]
+		},
+		{
+			"image": "https://aneventapart.com/uploads/speakers/uploads/speakers/_600x700_crop_top-center_75_none/miriam-suzanne-cropped.jpg",
+			"image_cropped": "https://aneventapart.com/uploads/speakers/uploads/speakers/_600x700_crop_top-center_75_none/miriam-suzanne-cropped.jpg",
+			"name": "Miriam Suzanne",
+			"talk": "Beyond CSS Variables",
+			"id": "miriam-suzanne",
+			"bio": "Miriam Suzanne is an author, artist, web developer, and teacher in Denver, Colorado. She’s a co-founder of [OddBird](https://oddbird.net/) web agency, a member of the [Sass](https://sass-lang.com/) core team, and a W3C Invited Expert on the CSS Working Group.\n\nAfter building [Susy](https://oddbird.net/susy) for responsive CSS layouts in 2009, and then [True](https://oddbird.net/true) for Sass unit-testing, Miriam became one of the primary developers of Sass & CSS developer tools, with a focus on layout, architecture, and design systems. She’s also a prolific teacher – offering CSS workshops, and speaking at conferences around the world. She’s a co-author of Sitepoint’s [Jump Start Sass](http://shop.oreilly.com/product/9780994182678.do), a staff writer for [CSS Tricks](http://css-tricks.com/), and was a founding teacher on the [Mozilla Developer](https://www.youtube.com/mozilladeveloper) youtube channel.\n\nOffline, Miriam is a playwright & author of [Riding SideSaddle*](http://ridingsidesaddle.com/) (SpringGun Press, 2015), a musician with [Teacup Gorilla](http://teacupgorilla.com/), and a co-founder of [Grapefruit Lab](http://grapefruitlab.com/). She won the 2017 True West Award for 10 Myths on the Proper Application of Beauty Products, the stage adaptation of her novel.\n\nYou can find Miriam on Twitter as [@MiriSuzanne](https://twitter.com/mirisuzanne), or learn more about her work at [miriam.codes](https://miriam.codes/).",
+			"profile": [
+				{
+					"url": "https://twitter.com/MiriSuzanne"
+				},
+				{
+					"url": "https://github.com/MiriSuzanne"
+				}
+			]
+		},
+		{
+			"image": "https://aneventapart.com/uploads/headshots/_350x425_fit_center-center_80_none/aea_speaker_luke-wroblewski_profile.jpg",
+			"image_cropped": "https://aneventapart.com/uploads/action-shots/_600x700_crop_top-center_75_none/aea_speaker_luke-wroblewski_event.jpg",
+			"name": "Luke Wroblewski",
+			"talk": "User-centered design",
+			"id": "luke-wroblewski",
+			"bio": "Luke is currently a Product Director at Google. Earlier he was the CEO and Co-founder of Polar ([acquired by Google in 2014](http://www.lukew.com/ff/entry.asp?1918)) and the Chief Product Officer and Co-Founder of Bagcheck ([acquired by Twitter in 2011](http://www.lukew.com/ff/entry.asp?1371)). Prior to founding start-ups, he was an Entrepreneur in Residence (EIR) at [Benchmark Capital](http://www.benchmark.com/), the Chief Design Architect (VP) at Yahoo!, Lead User Interface Designer at eBay, and a Senior Interface Designer at NCSA: the birthplace of the first popular graphical Web browser, [NCSA Mosaic](http://archive.ncsa.uiuc.edu/SDG/Software/Mosaic/NCSAMosaicHome.html).\n\nLuke is the author of three popular Web design books ([Mobile First](https://aneventapart.com/resources/mobile_first.asp), [Web Form Design](https://aneventapart.com/resources/web_form_design.asp) & [Site-Seeing: A Visual Approach to Web Usability](https://aneventapart.com/resources/site_seeing.asp)) in addition to [many articles](https://aneventapart.com/ff/) about digital product design and strategy. He is also a consistently top-rated speaker at [conferences and companies](http://www.lukew.com/presos/) around the world, and a Co-founder and former Board member of the [Interaction Design Association](http://www.ixda.org/) (IxDA). He also founded [LukeW Ideation & Design](https://aneventapart.com/), a product strategy and design consultancy, and taught graduate interface design courses at the University of Illinois.\n\nLuke's complete resume and recommendations are available on [LinkedIn](http://www.linkedin.com/in/lukew).",
+			"profile": [
+				{
+					"url": "https://twitter.com/lukew"
+				}
+			]
+		}
+	]
+}
